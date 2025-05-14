@@ -1,5 +1,4 @@
-# My_Thesis
-Smart Sportswear design that can detect vital parameters
+# Smart Sportswear design that can detect vital parameters
 Athletes can now provide a variety of real-time data during training sessions and
 competitions thanks to the development of sophisticated sensors and equipment.
 Electrocardiogram (ECG) signals and activity patterns are among the factors included
